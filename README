@@ -1,0 +1,7 @@
+Send out customized emails to people from a csv file 
+The script converts the the csv file into a list of dicts
+Make sure that you label the fieldnames correctly based on the name of the colounms in the csv
+Then it makes it a custom letter based on the dicts in the list 
+Make sure that make a email and setup the parameters correctly 
+After that it sends out the email based on each dict in the list 
+Enjoy 
